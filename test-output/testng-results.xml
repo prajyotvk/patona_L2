@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-18T20:56:08 IST" name="Suite" finished-at="2023-04-18T20:56:24 IST" duration-ms="16076">
+    <groups>
+    </groups>
+    <test started-at="2023-04-18T20:56:08 IST" name="Test" finished-at="2023-04-18T20:56:24 IST" duration-ms="16076">
+      <class name="com.TestLayer.ContactPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.TestLayer.ContactPageTest@37d4349f]" started-at="2023-04-18T20:56:08 IST" name="setUp" finished-at="2023-04-18T20:56:20 IST" duration-ms="11848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testContactPage()[pri:1, instance:com.TestLayer.ContactPageTest@37d4349f]" started-at="2023-04-18T20:56:20 IST" name="testContactPage" finished-at="2023-04-18T20:56:20 IST" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testContactPage -->
+        <test-method signature="verifyCompanyName()[pri:2, instance:com.TestLayer.ContactPageTest@37d4349f]" started-at="2023-04-18T20:56:20 IST" name="verifyCompanyName" finished-at="2023-04-18T20:56:21 IST" duration-ms="624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCompanyName -->
+        <test-method signature="verifyFirstName()[pri:3, instance:com.TestLayer.ContactPageTest@37d4349f]" started-at="2023-04-18T20:56:21 IST" name="verifyFirstName" finished-at="2023-04-18T20:56:21 IST" duration-ms="417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFirstName -->
+        <test-method signature="verifyLastName()[pri:4, instance:com.TestLayer.ContactPageTest@37d4349f]" started-at="2023-04-18T20:56:21 IST" name="verifyLastName" finished-at="2023-04-18T20:56:21 IST" duration-ms="333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLastName -->
+        <test-method signature="verifyWorkMail()[pri:5, instance:com.TestLayer.ContactPageTest@37d4349f]" started-at="2023-04-18T20:56:21 IST" name="verifyWorkMail" finished-at="2023-04-18T20:56:22 IST" duration-ms="384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWorkMail -->
+        <test-method signature="verifyPhone()[pri:6, instance:com.TestLayer.ContactPageTest@37d4349f]" started-at="2023-04-18T20:56:22 IST" name="verifyPhone" finished-at="2023-04-18T20:56:22 IST" duration-ms="335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPhone -->
+        <test-method signature="verifyCountry()[pri:7, instance:com.TestLayer.ContactPageTest@37d4349f]" started-at="2023-04-18T20:56:22 IST" name="verifyCountry" finished-at="2023-04-18T20:56:22 IST" duration-ms="303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCountry -->
+        <test-method signature="veryfyEnquiryDetails()[pri:8, instance:com.TestLayer.ContactPageTest@37d4349f]" started-at="2023-04-18T20:56:22 IST" name="veryfyEnquiryDetails" finished-at="2023-04-18T20:56:23 IST" duration-ms="327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- veryfyEnquiryDetails -->
+        <test-method signature="verifyAboutUs()[pri:9, instance:com.TestLayer.ContactPageTest@37d4349f]" started-at="2023-04-18T20:56:23 IST" name="verifyAboutUs" finished-at="2023-04-18T20:56:23 IST" duration-ms="306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAboutUs -->
+        <test-method signature="clickOnCheck()[pri:10, instance:com.TestLayer.ContactPageTest@37d4349f]" started-at="2023-04-18T20:56:23 IST" name="clickOnCheck" finished-at="2023-04-18T20:56:23 IST" duration-ms="119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnCheck -->
+        <test-method signature="takeSS()[pri:11, instance:com.TestLayer.ContactPageTest@37d4349f]" started-at="2023-04-18T20:56:23 IST" name="takeSS" finished-at="2023-04-18T20:56:24 IST" duration-ms="341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeSS -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TestLayer.ContactPageTest@37d4349f]" started-at="2023-04-18T20:56:24 IST" name="tearDown" finished-at="2023-04-18T20:56:24 IST" duration-ms="539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TestLayer.ContactPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
